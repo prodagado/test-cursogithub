@@ -1,3 +1,4 @@
 silla
 mesa
 sofá
+sillón
